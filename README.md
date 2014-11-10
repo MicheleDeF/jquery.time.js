@@ -17,7 +17,7 @@
 
     <script src="js/jquery-x.x.x.js" type="text/javascript"></script>
      
-    <script src="js/jquery.clock.js" type="text/javascript"></script>
+    <script src="js/jquery.time.js" type="text/javascript"></script>
     
 ###Il Plug-in jquery.time.js     
 >A questo punto per ottenere l'orologio live:
