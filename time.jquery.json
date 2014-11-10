@@ -1,0 +1,36 @@
+{
+    "name": "time",
+    "title": "jQuery Time",
+    "description": "jQuery plugin per orologio analogico live",
+    "keywords": [
+        "orologio analogico live con jquery",
+        "plug in per orologio analogico live",
+        
+    ],
+    "version": "0.1",
+    "author": {
+        "name": "michele de falco",
+        "url": "https://github.com/MicheleDeF"
+    },
+    "maintainers": [
+        {
+            "name": "Michele De Falco",
+            "email": "defalco_michele@libero.it",
+            "url": "https://github.com/MicheleDeF"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": ""
+            
+        }
+    ],
+    
+    "homepage": "",
+    "docs": "",
+    "download": "",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
