@@ -1,17 +1,17 @@
 # JQuery Time
 
->Time è un plug-in jquery per olorologio analogico live, l'orologio si ottiene senza l'uso di immagini, ma soltanto con i css.
+>Time è un plug-in jquery per orologio analogico live, l'orologio si ottiene senza l'uso di immagini, ma soltanto con i css.
 
 
-###Come iniziare
+###How to get started
 
->Codice HTML
+>HTML Code
 
     <div id="clock"></div>
 
 
 
->usare un div#clock, e inserire l'ultima versione di jquery , il plug-in jquery.time.js e clock.css.
+>use a div # clock and put the latest version of jquery, the plug-in jquery.time.js and clock.css.
 
     <link rel="stylesheet" href="css/clock.css">
 
@@ -19,8 +19,8 @@
      
     <script src="js/jquery.time.js" type="text/javascript"></script>
     
-###Il Plug-in jquery.time.js     
->A questo punto per ottenere l'orologio live:
+###jquery.time.js     
+>At this point, to obtain the clock live:
 
     <script type="text/javascript">
          $(document).ready(function(){
@@ -28,7 +28,7 @@
             });
     </script>
     
-> Per cambiare il colore dell'orologio bisogna fare delle modifiche al foglio di stile clock.css, 'border-color' di #clock per il bordo dell'orologio, 'background' di #clock:after per il centro dell'orologio, 'background' di #secondi:after, #ore:after, #minuti:after per modificare rispettivamente il colore della lancetta dei secondi, ore e minuti.
+>To change the color of the clock you have to make changes to the style sheet clock.css, 'border-color' of #clock to the edge of the clock, the 'background' of #clock: after the center of the clock, 'background 'of #secondi: after, #ore: after, #minuti: after, respectively, to change the color of the second hand, hour and minute.
 
 ###Demo
 
