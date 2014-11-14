@@ -11,7 +11,7 @@
 
 
 
->use a div # clock and put the latest version of jquery, the plug-in jquery.time.js and clock.css.
+>use a div#clock and put the latest version of jquery, the plug-in jquery.time.js and clock.css.
 
     <link rel="stylesheet" href="css/clock.css">
 
@@ -28,7 +28,8 @@
             });
     </script>
     
->To change the color of the clock you have to make changes to the style sheet clock.css, 'border-color' of #clock to the edge of the clock, the 'background' of #clock: after the center of the clock, 'background 'of #secondi: after, #ore: after, #minuti: after, respectively, to change the color of the second hand, hour and minute.
+>To change the color of the clock you have to make changes to the style sheet clock.css, 'border-color' of #clock to the edge of the clock, the 'background' of #clock:after the center of the clock, 'background 'of #secondi:after, 
+#ore:after, #minuti:after, respectively, to change the color of the second hand, hour and minute.
 
 ###Demo
 
