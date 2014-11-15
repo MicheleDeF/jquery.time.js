@@ -1,6 +1,6 @@
 # JQuery Time
 
->Time is a plug-in for jQuery live analog clock, the clock is achieved without the use of images, but only with CSS
+>Time is a plug-in jQuery for  live analog clock, the clock is achieved without the use of images, but only with CSS
 
 
 ###How to get started
