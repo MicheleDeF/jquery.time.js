@@ -32,5 +32,5 @@
 
 ###Demo
 
-[demo.html](http://codepen.io/MicheleDeF/pen/MYOrJq)
+[http://codepen.io/MicheleDeF/pen/MYOrJq](http://codepen.io/MicheleDeF/pen/MYOrJq)
 
