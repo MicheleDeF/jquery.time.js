@@ -1,13 +1,13 @@
 {
     "name": "time",
     "title": "jQuery Time",
-    "description": "jQuery plugin per orologio analogico live",
+    "description": "jQuery plugin for live analog clock",
     "keywords": [
-        "orologio analogico live con jquery",
-        "plug in per orologio analogico live",
+        "clock",
+		"analog"
         
     ],
-    "version": "0.1",
+    "version": "1.0",
     "author": {
         "name": "michele de falco",
         "url": "https://github.com/MicheleDeF"
@@ -34,3 +34,4 @@
         "jquery": ">=1.5"
     }
 }
+
