@@ -1,13 +1,14 @@
 {
-    "name": "time",
-    "title": "jQuery Time",
-    "description": "jQuery plugin for live analog clock",
+    "name": "JQuery Time Plug-in",
+    "title": "JQuery Time Plug-in",
+    "description": "JQuery plug-in live digital clock",
     "keywords": [
         "clock",
-	"analog"
+	"jquery",
+	"digital"
         
     ],
-    "version": "1.1.1",
+    "version": "0.1",
     "author": {
         "name": "michele de falco",
         "url": "https://github.com/MicheleDeF"
@@ -28,10 +29,9 @@
     ],
     
     "homepage": "https://github.com/MicheleDeF/jquery.time.js",
-    "docs": "https://github.com/MicheleDeF/jquery.time.js/blob/master/README.md",
+    "docs": "https://github.com/MicheleDeF/jquery.time.js",
     "download": "https://github.com/MicheleDeF/jquery.time.js/archive/master.zip",
     "dependencies": {
         "jquery": ">=1.5"
     }
 }
-
